@@ -3,7 +3,7 @@
 Description:
 ------------
 
-- This repository contains maps for games. Serious Sam: First Encounter and Serious Sam: Second Encounter and are used in the [Serious Runner] project, released under the GPLv2 license, see LICENSE file. 
+- This repository contains maps for games Serious Sam: First Encounter and Serious Sam: Second Encounter and are used in the [Serious Runner] project, released under the GPLv2 license, see LICENSE file. 
 
 Disclaimer:
 -----------
